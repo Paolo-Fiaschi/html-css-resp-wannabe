@@ -93,6 +93,28 @@ img{
     margin: 20px auto;
     font-size: 20px;
 
+  }
+}
+/* versione >568px ------------------*/
+@media screen and (min-width:568px) {
+  #lezioni .row > .left, #lezioni .row > .right{
+    width: 40%;
+    margin: auto 5%;
+    font-size: 20px;
+  }
 
+  #steps .row > .left,
+  #steps .row > .central,
+  #steps .row > .right{
+    font-size: 20px;
+    width: 23%;
+    margin: auto 5%;
+  }
+  #why .row > .first,
+  #why .row > .second,
+  #why .row > .third {
+    font-size: 20px;
+    width: 90%;
+    margin: 80px auto;
   }
 }
