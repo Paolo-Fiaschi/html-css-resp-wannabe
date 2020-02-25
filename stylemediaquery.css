@@ -72,6 +72,7 @@ img{
     width: 80%;
     margin: 20px auto;
     float: none;
+    font-size: 20px;
   }
   .clear{
     clear: none;
@@ -82,12 +83,16 @@ img{
     float: none;
     width: 80%;
     margin: 20px auto;
+    font-size: 20px;
+
   }
   #why .row > .first,
   #why .row > .second,
   #why .row > .third {
     width: 80%;
     margin: 20px auto;
+    font-size: 20px;
+
 
   }
 }
